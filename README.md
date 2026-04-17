@@ -8,7 +8,7 @@
 - **Platform:** Forage  
 - **Mode:** Self-paced virtual job simulation
 
-![image](operations%20gs.jpg)
+![image](images/operations%20gs.jpg)
 
 ---
 
@@ -227,8 +227,8 @@ It provided real exposure to transaction management, operational risk handling, 
 
 🖼️ Project Snapshots</a>
 
-  ![image](task%20p1.png)
-  ![image](task%20p2.png)
-  ![image](task%20p3.png)
+  ![image](images/task%20p1.png)
+  ![image](images/task%20p2.png)
+  ![image](images/task%20p3.png)
 
   ---
