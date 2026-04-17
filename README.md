@@ -6,28 +6,30 @@
 
 - **Offered by:** Goldman Sachs  
 - **Platform:** Forage  
-- **Mode:** Self-paced virtual job simulation  
+- **Mode:** Self-paced virtual job simulation
+
+![image](operations%20gs.jpg)
 
 ---
 
 ## 📑 Table of Contents
 
-- [📌 Project Overview](#project-overview)  
-- [🏢 Program Context](#program-context)  
-- [💡 Why This Job Simulation](#why-this-simulation)  
-- [🎯 Project Objectives](#project-objectives)  
-- [🧠 Skills Developed](#skills-developed)  
-- [🔄 How the Program Works](#how-the-program-works)  
-- [🧩 Tasks Overview](#tasks-overview)  
-- [📊 Task One: Foundations of Operations](#task-one)  
-- [💰 Task Two: UHNW Transaction Management](#task-two)  
-- [🛠️ Tools & Technologies](#tools-technologies)  
-- [📌 Key Insights](#key-insights)  
-- [🚀 Learning Outcomes](#learning-outcomes)  
-- [📁 Repository Structure](#repository-structure)  
-- [🎓 Certification & Career Value](#certificate-usage)  
-- [🔚 Conclusion](#conclusion)  
-- [📬 Connect With Me](#connect)  
+- <a href="#project-overview">📌 Project Overview</a>
+- <a href="#program-context">🏢 Program Context</a>
+- <a href="#why-this-simulation">💡 Why This Job Simulation</a>
+- <a href="#project-objectives">🎯 Project Objectives</a>
+- <a href="#skills-developed">🧠 Skills Developed</a>
+- <a href="#how-the-program-works">🔄 How the Program Works</a>
+- <a href="#task-overview">🧩 Tasks Overview</a>
+- <a href="#task-two">📊 Task One: Foundations of Operations</a>
+- <a href="#task-two">💰 Task Two: UHNW Transaction Management</a>
+- <a href="#tools-technologies">🛠️ Tools & Technologies</a>
+- <a href="#key-insights">📌 Key Insights</a>
+- <a href="#learning-outcomes">🚀 Learning Outcomes/a>
+- <a href="#repository-structure">📁 Repository Structure</a>
+- <a href="#certificate-usage">🎓 Certification & Career Value</a>
+- <a href="#conclusion">🔚 Conclusion</a>
+- <a href="#connect">📬 Connect With Me</a>
 
 ---
 
@@ -175,6 +177,14 @@ This simulation provided a clear understanding of how operations teams function 
 
 ## <span id="repository-structure">📁 Repository Structure</span>
 
+`images`,
+`Financial_Data_Report.xlsx`,
+`Operations Job Simulation.pdf`,
+`Personal_Transaction_Plan_Example.xlsx`,
+`Personal_Transaction_Plan_Template.xlsx`,
+`README.md`,
+`Trade_Fail_Report_Example_Answerx.doc`,
+`Trade_Fail_Report_Template Doc.docx`
 
 ---
 
@@ -212,3 +222,13 @@ It provided real exposure to transaction management, operational risk handling, 
 </a>
 
 </div>
+
+---
+
+🖼️ Project Snapshots</a>
+
+  ![image](task%20p1.png)
+  ![image](task%20p2.png)
+  ![image](task%20p3.png)
+
+  ---
