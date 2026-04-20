@@ -177,13 +177,13 @@ This simulation provided a clear understanding of how operations teams function 
 
 ## <span id="repository-structure">📁 Repository Structure</span>
 
-`images`,
-`Financial_Data_Report.xlsx`,
-`Operations Job Simulation.pdf`,
-`Personal_Transaction_Plan_Example.xlsx`,
-`Personal_Transaction_Plan_Template.xlsx`,
-`README.md`,
-`Trade_Fail_Report_Example_Answerx.doc`,
+`images`
+`Financial_Data_Report.xlsx`
+`Operations Job Simulation.pdf`
+`Personal_Transaction_Plan_Example.xlsx`
+`Personal_Transaction_Plan_Template.xlsx`
+`README.md`
+`Trade_Fail_Report_Example_Answerx.doc`
 `Trade_Fail_Report_Template Doc.docx`
 
 ---
